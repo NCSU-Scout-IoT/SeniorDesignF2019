@@ -13,10 +13,12 @@ Final Documents
   - Detailed Design Document
   - Final Bill of Materials
   - Final Product Price
+  
 Software Files
  - ESP32 Firmware
 - Software Examples
 - Mobile App Files
+
 Hardware Files 
 - EAGLE files
 - Schematic and Board Layouts
